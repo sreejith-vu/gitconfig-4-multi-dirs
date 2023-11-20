@@ -32,4 +32,4 @@ name  = xx
 [core]
 sshCommand = "ssh -i ~/.ssh/id_ed25519_work"
 ```
-### Now create SSH keys with respective names and update in those in GIT UI and try git clone
+### Now create SSH keys with respective names and update those in GIT UI and try git clone
